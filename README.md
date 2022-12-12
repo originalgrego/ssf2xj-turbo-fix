@@ -11,7 +11,7 @@ Modifies SSF2XJ's turbo handling to eliminate level speed variations.
   A MRA file has been supplied, ssf2xjr1d will need to be available on the device.
 
 
-About this hack:
+# About this hack:
 
   The original SSF2X turbo algorithm functions by having a thread increment the turbo counter multiple times each frame.
   
