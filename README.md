@@ -3,11 +3,12 @@
 Modifies SSF2XJ's turbo handling to eliminate level speed variations.
 
 
-Mame Installation:
+# Mame Installation:
  Apply each of the IPS files to the corresponding rom files from either the ssf2xjr1d or ssf2xjdi unencrypted rom sets.
 
  
-For MiSTer users a MRA file has been supplied, ssf2xjr1d will need to be available on the device.
+# MiSTer:
+  A MRA file has been supplied, ssf2xjr1d will need to be available on the device.
 
 
 About this hack:
