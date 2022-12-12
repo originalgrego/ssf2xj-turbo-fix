@@ -22,7 +22,7 @@ About this hack:
   
   This hack increments the turbo count a single time each frame by a static amount, normalizing the speed of stages.
   
-  However, because the turbo frames now happen IMMEDIATELY AFTER the chance of a successful reversal move is slightly reduced.
+  However, because the turbo frames now happen IMMEDIATELY AFTER the real frame the chance of a successful reversal move is slightly reduced.
   
   The original turbo mechanism had a random chance of producing a turbo frame directly in between the two real frames, which would result in an input read that could potentially result in reversal.
   
